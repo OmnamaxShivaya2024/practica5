@@ -1,0 +1,7 @@
+my_string=input("я строка из текста: ")
+symbol=input(len("в строке символов_"))
+print("я строка из текста: ".upper())
+print("я строка из текста: ".lower())
+print("я строка из текста: ".replace(" ",""))
+print(my_string[0])
+print([-1])
