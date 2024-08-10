@@ -1,7 +1,6 @@
 my_string=input("я строка из текста: ")
-symbol=input(len("в строке символов_"))
-print("я строка из текста: ".upper())
-print("я строка из текста: ".lower())
-print("я строка из текста: ".replace(" ",""))
-print(my_string[0])
-print([-1])
+symbol=input(len(my_string))
+print(my_string.upper())
+print(my_string.lower())
+print(my_string.replace(" ", ""))
+
